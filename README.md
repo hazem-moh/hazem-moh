@@ -20,8 +20,7 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,js,cpp,vscode" />
   </a>
 </p>
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=hazem-moh&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 
 
