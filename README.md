@@ -17,7 +17,7 @@
 <h3>My Tools:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hazem-mohamed-7299142b7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,cpp,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,cpp,vscode,tailwind,react,next" />
   </a>
 </p>
 
